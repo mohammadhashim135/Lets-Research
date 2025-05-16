@@ -17,5 +17,5 @@ venv/
 .vscode/
 .streamlit/
 .DS_Store
-assets/
+
 
